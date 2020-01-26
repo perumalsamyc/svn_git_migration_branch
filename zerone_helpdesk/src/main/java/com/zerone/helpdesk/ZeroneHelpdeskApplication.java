@@ -3,6 +3,7 @@ package com.zerone.helpdesk;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//Spring boot main class which controls start from here...
 @SpringBootApplication
 public class ZeroneHelpdeskApplication {
 
