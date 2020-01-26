@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//Agent Pojo class 
 @Entity
 @Table(name="agent")
 public class Agent { 
