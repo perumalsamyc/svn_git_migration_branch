@@ -8,6 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import com.zerone.helpdesk.models.Agent;
 
+//Repository for Agent
 @Repository
 public interface AgentRepository extends JpaRepository<Agent,Long> {
 
